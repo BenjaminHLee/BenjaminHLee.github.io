@@ -43,10 +43,14 @@ main {
   max-width: 100%;
 }
 
-img {
+.side-image {
   margin-top: 1.7rem;
   max-width: 100%;
   height: auto;
+}
+
+.top-image {
+  display: none;
 }
 
 ul {
@@ -116,8 +120,15 @@ button[type="submit"]:hover {
     max-width: 100%;
   }
   
-  img {
+  .side-image {
     display: none;
+  }
+
+  .top-image {
+    display: flex;
+    height: auto;
+    width: 100%;
+    max-width: 100%;
   }
   
   .grid-item > * {
