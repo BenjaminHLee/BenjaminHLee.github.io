@@ -59,6 +59,12 @@ ul {
   margin-bottom: 0.5rem;
 }
 
+@supports (-moz-appearance:none) {
+  li {
+    line-height: 1.25;
+  }
+}
+
 form {
   display: flex;
   flex-direction: column;
