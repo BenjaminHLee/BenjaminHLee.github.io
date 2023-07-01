@@ -81,6 +81,7 @@ input[type="email"] {
   border: 1px solid #ccc;
   width: 100%;
   font-family: 'EB Garamond', serif;
+  font-size: 14px;
 }
 
 button[type="submit"] {
