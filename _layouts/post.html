@@ -24,20 +24,29 @@
 </head>
 <body>
   <main>
-    <a href="/" class="home-link">benleejamin</a>
+    <a href="/" class="home-link">back to benleejamin</a>
     <div class="two-col grid-container">
       <img src="sideimage.webp" alt="ben under a tree" class="grid-item side-image">
       <div class="grid-item">
         <img src="topimage.webp" alt="ben under a tree" class="top-image">
         <div class="post">
+          <h1>{{ page.title }}</h1>
+          <span class="post-subtitle">{{ page.subtitle }}</span>
+          <br>
+          <span class="post-metadata">
+            {{ page.date | date: "%B %-d, %Y" }} by
+            {{ page.authors | join: ", " }}
+            -
+            [{{ page.tags | join: ", " }}]
+          </span>
           {{ content }}
         </div>
         <form action="https://formspree.io/f/mwkjdqqz" method="POST">
           <label>
             <textarea
               name="message"
-              placeholder="thoughts/comments/critique? (I am in your debt)">
-            </textarea>
+              placeholder="thoughts/comments/critique"
+              ></textarea>
           </label>
           <label>
             <input type="email" name="email" placeholder="email (if you so please)">
@@ -46,24 +55,8 @@
         </form>
       </div>
     </div>
-    <div class="blog">
-      <h2>blogleejamin</h2>
-      <p>
-        Learn about me / my values / my experiences. Comments are always welcome;
-        feedback is a gift. I'm always looking for more reviewers, so let me know
-        if you'd like to read my unreleased drafts.
-      </p>
-      {% for post in site.posts %}
-        <p class="post-listing">
-          <a href="{{ post.url }}">
-            {{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}
-            </a>
-           by {{ post.authors | join: ", " }} [{{ post.tags | join: ", " }}]
-          <br>
-          {{ post.subtitle }}
-        </p>
-      {% endfor %}
-    </div>
+    {% include post-list.html %}
+    <a href="/" class="home-link">back to benleejamin</a>
   </main>
 </body>
 </html>

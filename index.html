@@ -72,24 +72,7 @@ title: benleejamin
         </div>
       </div>
     </div>
-    <div class="blog">
-      <h2>blogleejamin</h2>
-      <p>
-        Learn about me / my values / my experiences. Comments are always welcome;
-        feedback is a gift. I'm always looking for more reviewers, so let me know
-        if you'd like to read my unreleased drafts.
-      </p>
-      {% for post in site.posts %}
-        <p class="post-listing">
-          <a href="{{ post.url }}">
-            {{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}
-            </a>
-           by {{ post.authors | join: ", " }} [{{ post.tags | join: ", " }}]
-          <br>
-          {{ post.subtitle }}
-        </p>
-      {% endfor %}
-    </div>
+    {% include post-list.html %}
   </main>
 </body>
 </html>

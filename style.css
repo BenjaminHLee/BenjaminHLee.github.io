@@ -63,13 +63,22 @@ main {
   display: none;
 }
 
-.blog {
+.post-list {
   margin-top: 1rem;
+  margin-bottom: 2rem;
 }
 
 .post-listing {
   margin-top: 0.5rem;
+}
+
+.post-metadata {
   color: #aaa;
+}
+
+.post-subtitle {
+  color: #000;
+  font-style: italic;
 }
 
 .post {
@@ -121,6 +130,7 @@ input[type="email"] {
   width: 100%;
   font-family: 'EB Garamond', serif;
   font-size: 14px;
+  resize: vertical;
 }
 
 button[type="submit"] {
