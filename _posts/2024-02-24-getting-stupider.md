@@ -12,6 +12,8 @@ cover-image: getting-stupider
 
 I wrote this for a friend.
 
+## The Wolf and the Dragon
+
 The wolf was quick, and the dragon was wise. They sat together side-by-side.
 
 The wolf confessed to the dragon, “Dragon, I fear my mind grows old. My wits, like the winds of late, now falter in their pace.”
