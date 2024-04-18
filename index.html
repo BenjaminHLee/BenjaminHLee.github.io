@@ -1,3 +1,6 @@
+---
+title: benleejamin
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,47 +28,56 @@
   <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
 </head>
 <body>
-  <main class="two-col grid-container">
-    <img src="sideimage.webp" alt="ben under a tree" class="grid-item side-image">
-    <div class="grid-item">
-      <img src="topimage.webp" alt="ben under a tree" class="top-image">
-      <h1>Benjamin H Lee</h1>
-      <p>
-        Hi, I'm Ben. I'm a student at Brown University, but you might also know me
-        from Meta/Instagram, The Nueva School, or Jump Trading.
-        My
-        <a href="https://www.linkedin.com/in/benjamin-h-lee/">linkedin profile is here</a>,
-        and my ig is
-        <a href="https://www.instagram.com/benleejamin/">@benleejamin</a>.
-        If you're here for something else, let me know below!
-      </p>
-      <form action="https://formspree.io/f/mwkjdqqz" method="POST">
-        <label>
-          <textarea name="message" placeholder="what brings you here?"></textarea>
-        </label>
-        <label>
-          <input type="email" name="email" placeholder="email (if you so please)">
-        </label>
-        <button type="submit">send</button>
-      </form>
-      <!-- <div class="hover-only"> -->
-      <div>
+  <main>
+    <div class="two-col grid-container">
+      <img src="sideimage.webp" alt="ben under a tree" class="grid-item side-image">
+      <div class="grid-item">
+        <img src="topimage.webp" alt="ben under a tree" class="top-image">
+        <h1>Benjamin H Lee</h1>
         <p>
-          I like good noodles, buildings, programming, bartending, and all sorts of other
-          things. I'm working on a few projects, including:
+          Hi, I'm Ben. I'm a student at Brown University, but you might also know me
+          from Meta/Instagram, The Nueva School, or Jump Trading.
+          My
+          <a href="https://www.linkedin.com/in/benjamin-h-lee/">linkedin profile is here</a>,
+          and my ig is
+          <a href="https://www.instagram.com/benleejamin/">@benleejamin</a>.
+          If you're here for something else, let me know below!
         </p>
-        <ul>
-          <li>a startup centered on converting more offerees into hires,</li>
-          <li>the brown risd matchmaking club,</li>
-          <li>improving brown's entrepreneurial network,</li>
-          <li>and a project on eating good noodles.</li>
-        </ul>
-        <p>
-          If you have thoughts on any of these or you have feedback for me as a person,
-          please consider yourself obliged to fill out the form.
-          Thank you.
-        </p>
+        <form action="https://formspree.io/f/mwkjdqqz" method="POST">
+          <label>
+            <textarea name="message" placeholder="what brings you here?"></textarea>
+          </label>
+          <label>
+            <input type="email" name="email" placeholder="email (if you so please)">
+          </label>
+          <button type="submit">send</button>
+        </form>
+        <!-- <div class="hover-only"> -->
+        <div>
+          <p>
+            I like good noodles, buildings, programming, bartending, and all sorts of other
+            things. I'm working on a few projects, including:
+          </p>
+          <ul>
+            <li>a startup centered on converting more offerees into hires,</li>
+            <li>the brown risd matchmaking club,</li>
+            <li>improving brown's entrepreneurial network,</li>
+            <li>and a project on eating good noodles.</li>
+          </ul>
+          <p>
+            If you have thoughts on any of these or you have feedback for me as a person,
+            please consider yourself obliged to fill out the form.
+            Thank you.
+          </p>
+        </div>
       </div>
+    </div>
+    <div class="blog">
+      {% for post in site.posts %}
+        <li>
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        </li>
+      {% endfor %}
     </div>
   </main>
 </body>
