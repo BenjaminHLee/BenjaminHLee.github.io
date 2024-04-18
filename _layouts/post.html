@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="favicon/favicon.ico" type="image/x-icon">
+  <title>{{ page.title }} - benleejamin</title>
+  <meta name="description" content="{{ page.subtitle }}">
+  <meta property="og:title" content="{{ page.title }} - benleejamin">
+  <meta property="og:site_name" content="Benjamin Lee">
+  <meta property="og:description" content="{{ page.subtitle }}">
+  <meta property="og:image" content="https://benleejamin.com/ogimage.png">
+  <meta property="og:url" content="https://benleejamin.com/">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1"/>
+  <link rel="stylesheet" href="/style.css">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-91Q5CGS6T3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-91Q5CGS6T3');
+  </script>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+</head>
+<body>
+  <main>
+    <a href="/" class="home-link">benleejamin</a>
+    <div class="two-col grid-container">
+      <img src="sideimage.webp" alt="ben under a tree" class="grid-item side-image">
+      <div class="grid-item">
+        <img src="topimage.webp" alt="ben under a tree" class="top-image">
+        <div class="post">
+          {{ content }}
+        </div>
+        <form action="https://formspree.io/f/mwkjdqqz" method="POST">
+          <label>
+            <textarea
+              name="message"
+              placeholder="thoughts/comments/critique? (I am in your debt)">
+            </textarea>
+          </label>
+          <label>
+            <input type="email" name="email" placeholder="email (if you so please)">
+          </label>
+          <button type="submit">send</button>
+        </form>
+      </div>
+    </div>
+    <div class="blog">
+      <h2>blogleejamin</h2>
+      <p>
+        Learn about me / my values / my experiences. Comments are always welcome;
+        feedback is a gift. I'm always looking for more reviewers, so let me know
+        if you'd like to read my unreleased drafts.
+      </p>
+      {% for post in site.posts %}
+        <p class="post-listing">
+          <a href="{{ post.url }}">
+            {{ post.date | date: "%B %-d, %Y" }} - {{ post.title }}
+            </a>
+           by {{ post.authors | join: ", " }} [{{ post.tags | join: ", " }}]
+          <br>
+          {{ post.subtitle }}
+        </p>
+      {% endfor %}
+    </div>
+  </main>
+</body>
+</html>
