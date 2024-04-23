@@ -8,7 +8,7 @@ A: Styling via boring plain CSS, built w Jekyll, hosting via Github Pages.
 
 Q: Why not \[library\]?
 
-A: The current setup is simple and easy to update.
+A: The current setup is simple, easy to update, and serves my goals.
 
 Q: Why not \[Notion/Wordpress/Webflow/etc\]?
 
