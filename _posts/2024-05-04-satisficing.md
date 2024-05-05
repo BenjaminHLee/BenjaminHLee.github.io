@@ -2,7 +2,7 @@
 layout: post
 title: You Couldn’t’ve Done Better (and Satisficing)
 subtitle: Giving Up on Perfectionism
-date: 2024-05-05
+date: 2024-05-04
 authors: ben
 tags: lore
 cover-image: satisficing
