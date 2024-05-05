@@ -66,11 +66,11 @@ Here are some things I no longer focus on, in approximately chronological order.
 
 9. Subletting startup
 
-    - My first startup (see [Prior Art]({% post_url 2024-02-13-prior-art %})) eventually landed on subletting, and got a decent amount of traction. We seriously considered pursuing it. Ohana was our biggest competitor. They got real money from Neo, which meant that we could get money from someone else — but it wasn’t a good problem for our team. I think housing is an important space. It’s just not the space that gets me going.
+    - My first startup (see [Ours]({% post_url 2024-05-05-ours %})) eventually landed on subletting, and got a decent amount of traction. We seriously considered pursuing it. Ohana was our biggest competitor. They got real money from Neo, which meant that we could get money from someone else — but it wasn’t a good problem for our team. I think housing is an important space. It’s just not the space that gets me going.
 
 10. Climate startup
 
-    - A similar story here (again, see [Prior Art]({% post_url 2024-02-13-prior-art %})). I have no doubt that climate tech will be big. I just don’t know that I currently have a good angle into it. I’ve yet to find a climate problem for which I’m a good match. But this is still a space that’s interesting to me, and I’m always happy to talk about new ideas.
+    - A similar story here (see [Prior Art]({% post_url 2024-02-13-prior-art %})). I have no doubt that climate tech will be big. I just don’t know that I currently have a good angle into it. I’ve yet to find a climate problem for which I’m a good match. But this is still a space that’s interesting to me, and I’m always happy to talk about new ideas.
 
 11. Recruiting startup
 
