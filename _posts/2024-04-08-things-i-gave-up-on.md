@@ -12,11 +12,11 @@ cover-image: things-i-gave-up-on
 
 Over the past five years I’ve started to realize exactly how limited my attention is. This post is an attempt to demonstrate that.
 
-This post might be relevant if you’re:
+This piece might be relevant if:
 
-1. internet stalking me,
-2. assessing my ability to focus,
-3. or looking for more on what I’ve previously done.
+1. you're internet stalking me,
+2. you're assessing my ability to focus,
+3. or you're looking for more on what I’ve previously done.
 
 ## Things on Hold
 

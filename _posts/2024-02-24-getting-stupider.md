@@ -12,6 +12,10 @@ cover-image: getting-stupider
 
 I wrote this for a friend.
 
+This piece might be relevant if:
+
+1. you're that friend.
+
 ## The Wolf and the Dragon
 
 The wolf was quick, and the dragon was wise. They sat together side-by-side.
