@@ -10,11 +10,11 @@ cover-image: getting-stupider
 
 ## Goal and Audience
 
-I wrote this for a friend.
+Someone once told me something like this a long time ago, and I couldn't find it anywhere. A friend asked about it, so I wrote it down.
 
 This piece might be relevant if:
 
-1. you're that friend.
+1.you're that friend.
 
 ## The Wolf and the Dragon
 
