@@ -42,9 +42,9 @@ Well, you can’t really matchmake people because not everyone submitted the for
 
 Having just come out of linear algebra, it seemed very natural to answer these questions by representing each survey response as a vector of binary digits, in which each index corresponded to a particular crush-recipient. Then answering the first question becomes just a matter of computing and storing a coincidence matrix. Our answer to the second question was a very simple dot product between Person C’s row in that matrix and every other person, and then sorting the results by overlap. We came up with a clever codename-based redaction scheme to allow people to identify themselves in the anonymized results. People seemed happy with it!
 
-I’d later learn the terms “vector encoding” and “bag of words” and “cosine similarity.” I was a little miffed to find that the building blocks of machine learning weren’t more magical than what we’d derived.
+I’d later learn the terms “vector encoding” and “bag of words” and “cosine similarity.” Turns out other people have thought about similar problems in with like, actual rigor and less silliness. Who would've thought.
 
-The Gini coefficient was about 0.498. I believe that’s considered indicative of fairly severe inequality.
+The Gini coefficient (in which “wealth” corresponds to “having people crush on you”) was about 0.498. I believe that's usually considered reflective of severe inequality.
 
 ## Etc
 
