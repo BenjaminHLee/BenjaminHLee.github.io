@@ -14,7 +14,7 @@ Someone once told me something like this a long time ago, and I couldn't find it
 
 This piece might be relevant if:
 
-1.you're that friend.
+1. you're that friend.
 
 ## The Wolf and the Dragon
 
