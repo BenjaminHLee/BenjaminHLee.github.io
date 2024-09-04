@@ -15,7 +15,7 @@ This piece may be relevant if:
 
 1. you’re looking for more information about Pallet Materials.
 
-I’ve also written a less structured narrative on my first two attempts at founding a startup. If you’re looking for something like that, you should read Prior Art.
+I’ve also written a less structured narrative on my first two attempts at founding a startup. If you’re looking for something like that, you should read [Prior Art]({% post_url 2024-02-13-prior-art %}).
 
 ## The team
 
