@@ -70,7 +70,7 @@ Here are some things I no longer focus on, in approximately chronological order.
 
 10. Climate startup
 
-    - A similar story here (see [Prior Art]({% post_url 2024-02-13-prior-art %})). I have no doubt that climate tech will be big. I just don’t know that I currently have a good angle into it. I’ve yet to find a climate problem for which I’m a good match. But this is still a space that’s interesting to me, and I’m always happy to talk about new ideas.
+    - A similar story here (see [Pallet Materials]({% post_url 2024-08-20-pallet-materials %})). I have no doubt that climate tech will be big. I just don’t know that I currently have a good angle into it. I’ve yet to find a climate problem for which I’m a good match. But this is still a space that’s interesting to me, and I’m always happy to talk about new ideas.
 
 11. Recruiting startup
 
