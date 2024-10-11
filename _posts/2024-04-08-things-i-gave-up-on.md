@@ -50,7 +50,7 @@ Here are some things I no longer focus on, in approximately chronological order.
 
     - There is another world in which I’m fighting for my life in the CMU Computer Science + Architecture program. (Buildings, not computer architecture.) My aunt and uncle - both architects (maybe it’s genetic) - told me not to do it.
 
-    - I once had a piano teacher tell me that if you can imagine yourself doing anything with your life except for music, then you should pursue literally anything else. I suspect architecture is the same way. When I was choosing between Brown and CMU I did some numbers on expected work hours. CMU came out to 70/week. (Which honestly didn’t sound that bad, given it’d be interesting work. But it’s good hainvg the flexibility to think about where my time and energy goes.)
+    - I once had a piano teacher tell me that if you can imagine yourself doing anything with your life except for music, then you should pursue literally anything else. I suspect architecture is the same way. When I was choosing between Brown and CMU I did some numbers on expected work hours. CMU came out to 70/week. (Which honestly didn’t sound that bad, given it’d be interesting work. But it’s good having the flexibility to think about where my time and energy goes.)
 
     - There’s still a vague pipe dream of going to the GSD after my retirement from tech, but I’m pretty sure it’ll only ever be a daydream.
 
