@@ -16,4 +16,4 @@ A: I couldn't find anything that would fit my aesthetic needs, and it's hard to 
 
 Q: \[something else\]
 
-A: \[Please get in touch via the form on the site.\]
+A: Please get in touch via the form on the site!
