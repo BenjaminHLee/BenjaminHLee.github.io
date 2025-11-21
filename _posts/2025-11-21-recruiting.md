@@ -9,7 +9,9 @@ cover-image: recruiting
 ---
 
 ~~Everything I know about recruiting as a college/startup person~~
+
 ~~How to recruit for software engineering jobs~~
+
 My recruiting experience
 
 I was going to pontificate on recruiting — my takes on what you should do, how you should recruit, how to get jobs; preaching from my little pedestal of prestigious positions — but my experience is already old. Is it outdated? I don’t know. We didn’t have good language models when I was in school. Computer Science was less hyped up with our class than the subsequent ones. And I wasn’t affected by the graduate program funding cuts & the consequences that had upon the job market. All this to say: who am I to dispense wisdom? What do I know? 
@@ -30,6 +32,7 @@ I hoped my TA experience would carry me through my interviews — but after appl
 - forget leetcode,
 - ignore interview prep, and
 - get really lucky!
+
 This is probably not great advice. I was well-set-up by my experience as a TA and the extra coursework I’d had. Remember that under more normal circumstances, applying for a first-summer internship means applying during one’s first one (or two) semesters — but with my timeline I’d already finished my introductory coursework before applying for jobs. I want to make something clear: I was not a grinder, and I wasn’t optimizing to accelerate anything. Anways, I think it’s much more important to be a good teammate than a technical weapon. I maintain that I was largely a personality hire. My vibes (if you are somehow unable to tell) are just so awesome and excellent. So are my interests. Moving on.
 
 We — the Meta interns — were about halfway through the summer when we learned that we were unlikely to recieve return offers any time soon (due to Macroeconomic Conditions). Some interns chose to redouble their efforts to stand out, hopeful that they might be so excellent that they’d be asked back at the end of the summer. The rest of us started considering other options. A friend of mine, Paul, asked if I’d consider working at the firm he was interning at; he said it’d be fun and that I might like it. I said a recommendation from Paul is as good as any I could ask for, and so I went to Jump Trading.
