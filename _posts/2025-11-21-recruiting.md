@@ -2,7 +2,7 @@
 layout: post
 title: "My Recruiting Experience"
 subtitle: "Make of this what you will"
-date: 2025-08-23
+date: 2025-11-21
 authors: ben
 tags: lore startups
 cover-image: recruiting
