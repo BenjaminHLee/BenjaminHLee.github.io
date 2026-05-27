@@ -1,3 +1,4 @@
 url: "https://benleejamin.com"
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
