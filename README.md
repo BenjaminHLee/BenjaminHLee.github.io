@@ -12,7 +12,7 @@ A: The current setup is simple, easy to update, and serves my goals.
 
 Q: Why not \[Notion/Wordpress/Webflow/etc\]?
 
-A: I couldn't find anything that would fit my aesthetic needs, and it's hard to beat Github Pages + Namecheap when it comes to pricing.
+A: I couldn't find anything that would fit my aesthetic needs, and it's hard to beat Github Pages + Cloudflare Domains when it comes to pricing.
 
 Q: \[something else\]
 
